@@ -1,0 +1,16 @@
+h1 {
+  font-family: Lato;
+  color: #a9cce9;
+  background-color: #ffc;
+  page-break-before: #ffc0cb;
+  border-color: #ffc0cb;
+}
+div {
+  font-family: Lato;
+  color: #a9cce9;
+  page-break-before: #ffc0cb;
+  border-color: #ffc0cb;
+}
+body {
+  background-color: #ffff;
+}
